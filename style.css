@@ -54,7 +54,9 @@ section article img {
     padding: 0.3%;
 }
 
-
+.barra_navegacion{
+    background-color: #EFEFEF;
+}
 
 .grid-layout{
     padding: 2%;
