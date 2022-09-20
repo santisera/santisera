@@ -158,15 +158,12 @@ section article div {
     margin: 0 auto;
     background-color: rgb(209, 209, 204);
     border: 1px solid black;
-
-    
+    justify-content: center;
+    align-content: center;
+ 
 }
 
-.caja-cliente{
-    display: grid;
-    grid-template-columns: auto auto auto ;
-    border: 1px solid black;
-}
+
 
 #cc{
     display: flex;
@@ -228,3 +225,4 @@ footer{
 
 @media only screen and (max-width: 768px){}
 @media only screen and (max-width: 576px){}
+@media screen and (max-width: 480px){}
